@@ -6,12 +6,6 @@ The internship spanned **8 weeks**, with one task per week, each building on the
 
 ---
 
-## 📄 Internship Documents
-- [📜 Offer Letter](file:///C:/Users/ADMIN/Downloads/Nalumachu%20Vishnu%20Teja_OfferLetter.pdf)
-- [📝 Task List](Internship_Documents/Internship_Task_List.pdf)
-
----
-
 ## 📂 Repository Structure
 
 ### **Week 1 – Python Basics & Control Structures**
